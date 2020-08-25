@@ -1,3 +1,13 @@
+# Laravel Beginner Application
+
+## Pizzahouse 🍕
+
+A simple web application created using Laravel by following Net Ninja's Laravel 6 Course
+
+Preview: ![Preview](https://raw.githubusercontent.com/DinushiJayasekara/Laravel-Beginner/master/public/img/Preview.png)
+
+Net Ninja Link: https://www.youtube.com/playlist?list=PL4cUxeGkcC9hL6aCFKyagrT1RCfVN4w2Q
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
